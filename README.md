@@ -6,7 +6,7 @@
 
 Esta herramienta ha sido creada por **nandocn.555**.
 
-Se trata de una herramienta propietaria desarrollada con fines específicos y su uso está sujeto a las condiciones establecidas por el autor.
+Se trata de una herramienta propietaria desarrollada con fines específicos y su uso está sujeto a las condiciones establecidas.
 
 ---
 
