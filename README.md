@@ -33,4 +33,4 @@ En un futuro, esta herramienta contará con una versión ejecutable en formato *
 
 ## 🔒 Licencia
 
-Este proyecto no es de código abierto. Su uso está limitado exclusivamente a lo permitido por el autor.
+Este proyecto no es de código abierto. Su uso está limitado exclusivamente a lo permitido.
